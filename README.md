@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="ChatGPT Image Sep 2, 2026, 10_49_35 PM" src="https://github.com/user-attachments/assets/52cc47d5-516b-46ce-af71-83ad5e89f7eb" />
+<img width="1983" height="793" alt="github banner" src="https://github.com/user-attachments/assets/dabfdb70-914d-425b-86e3-95115702d6f1" />
 
 <h1 align="center">Hi 👋, I'm Fuyad Al Khatib</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
